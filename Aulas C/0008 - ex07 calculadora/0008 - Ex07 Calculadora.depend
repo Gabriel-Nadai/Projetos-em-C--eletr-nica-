@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461984004 source:c:\users\nrc3\documents\c\compilação\0008 - ex07 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+

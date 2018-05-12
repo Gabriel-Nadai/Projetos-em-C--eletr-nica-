@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461986166 source:c:\users\nrc3\documents\c\compilação\0012 - ex10 tomada de decicoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
